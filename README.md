@@ -1,7 +1,6 @@
 # Graphite evaluation
 
-Evaluate different type of merge strategies (merge, rebase and merge, squash and merge) from graphite and github, specially
-how it affects commit signature.
+Evaluate different type of merge strategies (merge, rebase and merge, squash and merge) from graphite and github, specially. How it affects commit signature.
 
 ## Overview
 
