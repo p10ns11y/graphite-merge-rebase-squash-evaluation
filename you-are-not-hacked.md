@@ -1,3 +1,5 @@
+If you notice a different GPG key ID linked to your verified signature, take a moment to reflect on how the merge (or commit) occurred. Consider who the actor was—whether it was you directly or an automated system acting on your behalf—before jumping to conclusions. Here is the conversation with ChatGPT debunking the fear or confusion:
+
 ### User:
 Does GitHub use auto-generated GPG internally for the user when signing, and does it involve history changes?
 
